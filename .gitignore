@@ -1,0 +1,16 @@
+# Generated blend files (can be rebuilt by blender_mesh_builder.py)
+**/blend_files/
+
+# Generated glb files (can be rebuilt by blender_mesh_builder.py)
+**/glb_files/
+
+# Verification plots (can be rebuilt by perimeter_extraction.py)
+**/verification_*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
